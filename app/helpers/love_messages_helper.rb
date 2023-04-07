@@ -1,0 +1,2 @@
+module LoveMessagesHelper
+end
