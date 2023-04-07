@@ -1,6 +1,10 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
+# On 0704 added simple form
+gem "simple_form"
+#gem 'simple_form-tailwind'
+
 ruby "3.1.2"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
