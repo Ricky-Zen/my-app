@@ -1,0 +1,13 @@
+//= require_tree
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Action-text
+@import 'trix/dist/trix.css';
+@import "components/actiontext.scss";
+
+// Components
+//@import "./components/actiontext";
+
